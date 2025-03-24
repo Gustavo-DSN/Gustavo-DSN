@@ -100,6 +100,9 @@ Tenho 20 anos e sou natural de Birigui - SP. Sou graduado em Análise e Desenvol
     src="https://github-readme-stats.vercel.app/api?username=Gustavo-DSN&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
+  <br/>
+  <br/>
+
 <img 
       align="left" 
       alt="GitHub Stats" 

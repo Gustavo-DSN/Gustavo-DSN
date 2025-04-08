@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Tenho 20 anos e sou natural de Birigui - SP. Sou graduado em Análise e Desenvolvimento de Sistemas e tenho experiência de 1 ano trabalhando com Node.js e MongoDB. Tenho um grande interesse em desenvolvimento back-end e estou sempre buscando me aprofundar em Node.js. Também tenho experiência com React e Material UI. No meu GitHub, compartilho projetos de desenvolvimento web, com o objetivo de continuar aprendendo e evoluindo na área de tecnologia.
+Tenho 21 anos e sou natural de Birigui - SP. Sou graduado em Análise e Desenvolvimento de Sistemas e tenho experiência de 1 ano trabalhando com Node.js e MongoDB. Tenho um grande interesse em desenvolvimento back-end e estou sempre buscando me aprofundar em Node.js. Também tenho experiência com React e Material UI. No meu GitHub, compartilho projetos de desenvolvimento web, com o objetivo de continuar aprendendo e evoluindo na área de tecnologia.
 
 ---
 

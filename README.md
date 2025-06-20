@@ -1,8 +1,12 @@
 # 👩🏻‍💻 Gustavo Nascimento
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor BackEnd`**
 
-Tenho 21 anos e sou natural de Birigui - SP. Sou graduado em Análise e Desenvolvimento de Sistemas e tenho experiência de 1 ano trabalhando com Node.js e MongoDB. Tenho um grande interesse em desenvolvimento back-end e estou sempre buscando me aprofundar em Node.js. Também tenho experiência com React e Material UI. No meu GitHub, compartilho projetos de desenvolvimento web, com o objetivo de continuar aprendendo e evoluindo na área de tecnologia.
+Tenho 21 anos, sou natural de Birigui - SP e graduado em Análise e Desenvolvimento de Sistemas. Tenho 2 anos de experiência prática com desenvolvimento back-end, especialmente utilizando Node.js e MongoDB. Sou apaixonado por arquitetura de sistemas, APIs RESTful e tudo que envolve a lógica por trás das aplicações.
+
+Embora também tenha conhecimentos em React e Material UI, meu foco está no ecossistema back-end, onde busco constantemente aprimorar minhas habilidades com JavaScript/TypeScript, bancos de dados e boas práticas de desenvolvimento.
+
+No meu GitHub, compartilho projetos voltados para o desenvolvimento web, com o objetivo de aprender na prática, contribuir com a comunidade e evoluir profissionalmente no setor de tecnologia.
 
 ---
 

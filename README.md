@@ -72,15 +72,6 @@ No meu GitHub, compartilho projetos voltados para o desenvolvimento web, com o o
     width="30px" 
     style="padding-right: 10px;"  
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
 <img 
     align="left" 
     alt="Git" 

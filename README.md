@@ -2,7 +2,7 @@
 
 **`Desenvolvedor BackEnd`**
 
-Tenho 21 anos, sou natural de Birigui - SP e graduado em Análise e Desenvolvimento de Sistemas. Tenho 2 anos de experiência prática com desenvolvimento back-end, especialmente utilizando Node.js e MongoDB. Sou apaixonado por arquitetura de sistemas, APIs RESTful e tudo que envolve a lógica por trás das aplicações.
+Tenho 22 anos, sou natural de Birigui - SP e graduado em Análise e Desenvolvimento de Sistemas. Tenho 2 anos de experiência prática com desenvolvimento back-end, especialmente utilizando Node.js e MongoDB. Sou apaixonado por arquitetura de sistemas, APIs RESTful e tudo que envolve a lógica por trás das aplicações.
 
 Embora também tenha conhecimentos em React e Material UI, meu foco está no ecossistema back-end, onde busco constantemente aprimorar minhas habilidades com JavaScript/TypeScript, bancos de dados e boas práticas de desenvolvimento.
 

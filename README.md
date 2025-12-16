@@ -87,15 +87,6 @@ No meu GitHub, compartilho projetos voltados para o desenvolvimento web, com o o
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Gustavo-DSN&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <br/>
   <br/>
 
 <img 

@@ -84,16 +84,4 @@ No meu GitHub, compartilho projetos voltados para o desenvolvimento web, com o o
 <br/>
 <br/>
 
-### 📊 Estatísticas
 
-<p>
-  <br/>
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-DSN&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>

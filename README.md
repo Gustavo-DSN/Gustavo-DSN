@@ -1,87 +1,42 @@
-# 👩🏻‍💻 Gustavo Nascimento
+# Gustavo Nascimento
 
-**`Desenvolvedor BackEnd`**
+**Back-End Developer | Node.js | TypeScript | MySQL | AWS**
 
-Tenho 22 anos, sou natural de Birigui - SP e graduado em Análise e Desenvolvimento de Sistemas. Tenho 2 anos de experiência prática com desenvolvimento back-end, especialmente utilizando Node.js e MongoDB. Sou apaixonado por arquitetura de sistemas, APIs RESTful e tudo que envolve a lógica por trás das aplicações.
+Sou Desenvolvedor Back-End Júnior II, formado em Análise e Desenvolvimento
+de Sistemas e com experiência profissional em desenvolvimento de software
+desde 2023.
 
-Embora também tenha conhecimentos em React e Material UI, meu foco está no ecossistema back-end, onde busco constantemente aprimorar minhas habilidades com JavaScript/TypeScript, bancos de dados e boas práticas de desenvolvimento.
+Atuo principalmente na criação, manutenção e refatoração de APIs e aplicações
+SaaS utilizando Node.js e TypeScript. Tenho experiência com bancos de dados
+SQL e NoSQL, serviços AWS, testes automatizados, integrações de sistemas e
+organização de bases de código.
 
-No meu GitHub, compartilho projetos voltados para o desenvolvimento web, com o objetivo de aprender na prática, contribuir com a comunidade e evoluir profissionalmente no setor de tecnologia.
+Atualmente, trabalho na modernização de um produto existente, reduzindo
+duplicidade de código, criando estruturas reutilizáveis e melhorando fluxos
+de chatbot, faturamento e auditoria.
 
----
+## Experiência técnica
 
-### 🤖 Linguagens e Tecnologias
+- Desenvolvimento e refatoração de APIs REST
+- Node.js, JavaScript e TypeScript
+- MySQL, DynamoDB e modelagem NoSQL
+- AWS Lambda, API Gateway, S3, SES, IAM, SNS e Cognito
+- Testes com Jest, Mocha e Supertest
+- Docker, Git e integração com APIs externas
+- Apoio ao front-end com Vue.js, React e Material UI
+- Uso de Codex e Claude Code para análise de erros, testes, refatoração
+  e revisão de código
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
+## Projeto autoral
 
-<img align="left" 
-    alt="Express" 
-    title="Express"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />
+### Impulso Commerce
 
-<img align="left" 
-    alt="nodeJS"
-    title="nodeJS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+SaaS para análise de anúncios da Shopee, atualmente publicado em ambiente
+de testes.
 
-<img align="left" 
-    alt="mongoDB"
-    title="nodeJS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
+[Conhecer o Impulso Commerce](https://impulso-commerce.onrender.com/)
 
-<img align="left" 
-    alt="aws"
-    title="aws" 
-    width="30px" 
-    style="padding-right: 10px;"  
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+## Contato
 
-<br/>
-<br/>
-
-
+- [LinkedIn](https://www.linkedin.com/in/gustavo-nascimento-48a335253/)
+- [E-mail](mailto:gustavonascimento@gmail.com)
